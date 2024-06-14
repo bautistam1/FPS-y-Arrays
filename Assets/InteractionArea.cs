@@ -38,7 +38,7 @@ public class InteractionArea : MonoBehaviour
 
         if (score >= maxScore)
         {
-            txtScore.text = "¡Ganaste!";
+            txtScore.text = "¡Ganaste!";    
         }
     }
    
